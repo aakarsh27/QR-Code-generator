@@ -1,5 +1,5 @@
 # QR_CODE_GENERATOR
-## USING THE QRCODE LIBRARY IN PYTHON
+## (USING THE QRCODE LIBRARY IN PYTHON)
 
 this is a qr code generator program made using python
 
