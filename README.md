@@ -1,3 +1,5 @@
+#QR_CODE_GENERATOR
+
 this is a qr code generator program made using python
 
 
