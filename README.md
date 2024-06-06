@@ -4,7 +4,7 @@
 this is a qr code generator program made using python. a qr code for any website can be generated.
 the link needs to be enetered into the program.
 
-and after the program and successfully executed, a file named `qr_code.png` will be  
+and after the program and successfully executed, a file named `qr_code.png` will be generated1!
 
 
 
