@@ -1,10 +1,10 @@
 # QR_CODE_GENERATOR
 ## (USING THE QRCODE LIBRARY IN PYTHON)
 
-this is a qr code generator program made using python. a qr code for any website can be generated.
-the link needs to be enetered into the program.
+this is a QR code generator program made using python. a QR code for any website can be generated.
+the link needs to be entered into the program.
 
-and after the program and successfully executed, a file named `qr_code.png` will be generated1!
+and after the program and successfully executed, a file named `qr_code.png` will be generated!
 
 
 an example of a qr code generated from the current program is
